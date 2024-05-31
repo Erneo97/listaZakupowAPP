@@ -1,0 +1,4 @@
+lista1.dat
+lista3.dat
+lista4.dat
+nowa.dat
